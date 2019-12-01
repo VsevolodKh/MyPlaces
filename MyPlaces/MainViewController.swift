@@ -11,8 +11,8 @@ import UIKit
 class MainViewController: UITableViewController {
     
     let restaurantName = [
-        "KFC", "Readers Pub", "Пинта", "Династия", "McDonalds",
-        "Юпитер 5", "Pizza Hut", "DoDo Pizza", "Папа лаваш", "Мятный Трюфель"]
+        "KFC", "Readers Pub", "Пинта", "McDonalds",
+        "Юпитер 5", "Pizza Hut", "DoDo Pizza", "Папа лаваш",]
     
 
     override func viewDidLoad() {
